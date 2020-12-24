@@ -1,2 +1,2 @@
-# Sobel-Edge-Detector-C-Plus-Plus
+# Sobel-Edge-Detector-C++
 Edges Feature Detection by Sobel algorithm implementation using C++
