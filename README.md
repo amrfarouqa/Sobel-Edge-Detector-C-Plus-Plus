@@ -5,4 +5,4 @@
 Edges Feature Detection by Sobel algorithm implementation using C++ and OpenCV
 
 
-<img src="Sobel.png" width="350">
+<img src="Sobel.png">
